@@ -10,8 +10,3 @@
 🤝 I love helping others and learning together through code  
 
 📫 Reach me at: https://mail.google.com/mail/u/0/#inbox
-
-<!---
-CodeSkyRitu/CodeSkyRitu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
