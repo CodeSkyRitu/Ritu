@@ -2,7 +2,7 @@
 
 👩‍💻 A passionate CS student with a dream to become a software engineer  
 
-👀 I’m interested in ...DSA and Web Development
+👀 I’m interested in ML
 
 🌱 I’m currently learning ...C++
 💞️ I’m looking to collaborate on ...Coding
